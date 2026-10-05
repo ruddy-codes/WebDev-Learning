@@ -1,10 +1,10 @@
-# HTML Learning Journey 🚀
+# Web Development Learning Journey 🚀
 
-Welcome to my Web Developement Learning Journey repository.
+Welcome to my Web Development Learning Journey repository.
 
-This repository contains all the projects, exercises, and experiments I build while learning HTML and the fundamentals of web development.
+This repository contains all the projects, exercises, and experiments I build while learning web development.
 
-I am currently learning web development through youtube and using this repository to practice concepts by building small projects instead of only watching tutorials.
+I am currently learning web development through YouTube and using this repository to practice concepts by building small projects instead of only watching tutorials.
 
 ---
 
@@ -28,7 +28,7 @@ Currently learning:
 
 ### 01 - Personal Profile Page
 
-My first HTML project.
+My first web development project.
 
 Concepts practiced:
 
@@ -41,10 +41,6 @@ Concepts practiced:
 
 ### Upcoming Projects
 
-* Magazine Article
-* HTML Revision Notes
-* Links and Images Project
-* Tables Project
 * Portfolio Website
 * More practice projects
 
@@ -86,7 +82,7 @@ Instead of only following tutorials, I aim to apply every concept by creating pr
 
 ## 📈 Learning Progress
 
-* [x] First HTML Project Completed
+* [x] First Web Development Project Completed
 * [ ] Complete HTML Module
 * [ ] Learn CSS
 * [ ] Learn Related Framework
